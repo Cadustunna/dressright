@@ -57,4 +57,4 @@ jobs:
           app-name: 'dressright'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_78522C96175647998FE41778BBC9DC57 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E3830BCABBF94AA4ACBE44EF7B94FA3E }}
